@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @aravindv12
-- 👀 I’m interested in basketball
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me - aravind.v2005@gmail.com
 
 <!---
